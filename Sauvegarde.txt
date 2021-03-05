@@ -1,0 +1,12 @@
+
+
+
+wijdan:tirageniveau1:1:4
+wijdan:tirageniveau1:2:8
+wijdan:tirageniveau1:3:12
+wijdan:tirageniveau2:4:18
+wijdan:tirageniveau2:5:24
+wijdan:tirageniveau2:6:30
+wijdan:tirageniveau3:7:38
+wijdan:tirageniveau3:8:46
+wijdan:tirageniveau3:9:54
